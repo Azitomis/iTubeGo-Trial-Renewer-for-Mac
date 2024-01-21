@@ -1,0 +1,5 @@
+echo iTubeGo Trial is being renewed...
+say Renewing trial.
+rm ~/Library/Preferences/com.luckydogsoft.iTubeGo.plist
+rm -r ~/Library/Application\ Support/iTubeGo
+/Applications/iTubeGo.app/Contents/MacOS/iTubeGo
